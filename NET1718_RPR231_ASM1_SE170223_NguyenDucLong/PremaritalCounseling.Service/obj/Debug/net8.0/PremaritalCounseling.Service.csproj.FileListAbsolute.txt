@@ -1,0 +1,15 @@
+D:\FPT\8th_SP25\PRN231\ASM\NET1718_RPR231_ASM1_SE170223_NguyenDucLong\PremaritalCounseling.Service\bin\Debug\net8.0\PremaritalCounseling.Service.deps.json
+D:\FPT\8th_SP25\PRN231\ASM\NET1718_RPR231_ASM1_SE170223_NguyenDucLong\PremaritalCounseling.Service\bin\Debug\net8.0\PremaritalCounseling.Service.dll
+D:\FPT\8th_SP25\PRN231\ASM\NET1718_RPR231_ASM1_SE170223_NguyenDucLong\PremaritalCounseling.Service\bin\Debug\net8.0\PremaritalCounseling.Service.pdb
+D:\FPT\8th_SP25\PRN231\ASM\NET1718_RPR231_ASM1_SE170223_NguyenDucLong\PremaritalCounseling.Service\obj\Debug\net8.0\PremaritalCounseling.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\8th_SP25\PRN231\ASM\NET1718_RPR231_ASM1_SE170223_NguyenDucLong\PremaritalCounseling.Service\obj\Debug\net8.0\PremaritalCounseling.Service.AssemblyInfoInputs.cache
+D:\FPT\8th_SP25\PRN231\ASM\NET1718_RPR231_ASM1_SE170223_NguyenDucLong\PremaritalCounseling.Service\obj\Debug\net8.0\PremaritalCounseling.Service.AssemblyInfo.cs
+D:\FPT\8th_SP25\PRN231\ASM\NET1718_RPR231_ASM1_SE170223_NguyenDucLong\PremaritalCounseling.Service\obj\Debug\net8.0\PremaritalCounseling.Service.csproj.CoreCompileInputs.cache
+D:\FPT\8th_SP25\PRN231\ASM\NET1718_RPR231_ASM1_SE170223_NguyenDucLong\PremaritalCounseling.Service\obj\Debug\net8.0\PremaritalCounseling.Service.dll
+D:\FPT\8th_SP25\PRN231\ASM\NET1718_RPR231_ASM1_SE170223_NguyenDucLong\PremaritalCounseling.Service\obj\Debug\net8.0\refint\PremaritalCounseling.Service.dll
+D:\FPT\8th_SP25\PRN231\ASM\NET1718_RPR231_ASM1_SE170223_NguyenDucLong\PremaritalCounseling.Service\obj\Debug\net8.0\PremaritalCounseling.Service.pdb
+D:\FPT\8th_SP25\PRN231\ASM\NET1718_RPR231_ASM1_SE170223_NguyenDucLong\PremaritalCounseling.Service\obj\Debug\net8.0\ref\PremaritalCounseling.Service.dll
+D:\FPT\8th_SP25\PRN231\ASM\NET1718_RPR231_ASM1_SE170223_NguyenDucLong\PremaritalCounseling.Service\bin\Debug\net8.0\PremaritalCounseling.Repository.dll
+D:\FPT\8th_SP25\PRN231\ASM\NET1718_RPR231_ASM1_SE170223_NguyenDucLong\PremaritalCounseling.Service\bin\Debug\net8.0\PremaritalCounseling.Repository.pdb
+D:\FPT\8th_SP25\PRN231\ASM\NET1718_RPR231_ASM1_SE170223_NguyenDucLong\PremaritalCounseling.Service\obj\Debug\net8.0\PremaritalCounseling.Service.csproj.AssemblyReference.cache
+D:\FPT\8th_SP25\PRN231\ASM\NET1718_RPR231_ASM1_SE170223_NguyenDucLong\PremaritalCounseling.Service\obj\Debug\net8.0\Premarit.FA13709F.Up2Date
